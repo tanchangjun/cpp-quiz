@@ -1,10 +1,10 @@
 /*
-¡¾Êä³ö¡°ÄãºÃ£¬ÊÀ½ç£¡¡±¡¿
-ÊäÈë
-  £¨ÎÞ£©
+ã€è¾“å‡ºâ€œä½ å¥½ï¼Œä¸–ç•Œï¼â€ã€‘
+è¾“å…¥
+  ï¼ˆæ— ï¼‰
 
-Êä³ö
-  ÄãºÃ£¬ÊÀ½ç£¡
+è¾“å‡º
+  ä½ å¥½ï¼Œä¸–ç•Œï¼
 */
 
 #define JUDGE_MODE
@@ -15,6 +15,6 @@ using namespace std;
 
 int main()
 {
-	/*ÔÚ´Ë´¦Ìí¼ÓÄãµÄ´úÂë*/
+	cout<<"ä½ å¥½ï¼Œä¸–ç•Œï¼"ï¼›
 	return 0;
 }
